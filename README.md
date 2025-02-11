@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @marianymorais
-- 👀 I’m interested in front-end, especific in ui/ux
-- 🌱 I’m currently doing a masters in computer science - USP/ICMC 
+- 👋 Hi, I’m @marianymorais ✨
+- 💻 Front-end developer and UI
+- 🌳 Master in computer science - USP/ICMC
+- 👩🏽‍🏫 SENAI Roberto Mange professor
 
 <!---
 marianymorais/marianymorais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
